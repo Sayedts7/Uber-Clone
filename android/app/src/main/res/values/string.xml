@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rebeca Delight</string>
+    <string name="facebook_app_id">1114935809186198</string>
+    <string name="fb_login_protocol_scheme">fb1114935809186198</string>
+    <string name="facebook_client_token">eef0dcfe1a2b3792981c9fc5b1ce52cd</string>
+
+
+</resources>

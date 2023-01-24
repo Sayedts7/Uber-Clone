@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363039353415",
+    "project_id": "psyched-battery-368418",
+    "storage_bucket": "psyched-battery-368418.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363039353415:android:26e1b923bb197416f05f62",
+        "android_client_info": {
+          "package_name": "com.example.uber_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363039353415-keckkrtgnk6fhuh78u0r7nlnqdrm1ufn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7WwDSDff8Da7dVdVMsV5lLno5R8-n3fM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363039353415-keckkrtgnk6fhuh78u0r7nlnqdrm1ufn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
